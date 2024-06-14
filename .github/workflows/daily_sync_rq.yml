@@ -6,7 +6,7 @@ on:
    - cron: "30 17 * * *"
    push:
    branches:
-  - main
+  main
 
 env:
   # please change to your own config.
